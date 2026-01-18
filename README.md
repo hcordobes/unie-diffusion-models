@@ -11,7 +11,7 @@ This example will:
 * generate new sample data using the decoder
 
 ## Environment
-This example runs within a **Google Colab T4 instance**. To open this notebook on Google Colab please use [this URL](https://colab.research.google.com/github/hcordobes/unie-vae/blob/main/src/vae.ipynb). 
+This example runs within a **Google Colab T4 instance**. To open this notebook on Google Colab please use [this URL](https://colab.research.google.com/github/hcordobes/unie-diffusion-models/blob/main/src/Diffusion Models MNIST.ipynb). 
 As this is a private repository, Google Colab will request an OAuth2 authorization to use your credentials to access this resource on a pop-up. Grant access and the exercise should be available to you.
 
 ## Project structure
@@ -19,11 +19,10 @@ As this is a private repository, Google Colab will request an OAuth2 authorizati
 ```bash
 .
 ├── datasets/
-│ └── MNIST Dataset License - GPL v3.0.txt
+│ └── LICENSE.txt
 ├── src/
-│ ├── LICENSE  # MIT License
-│ └── dm.ipynb  # Full exercise
-├── requirements.txt
+│ ├── LICENSE.txt  # MIT License
+│ └── Diffusion Models MNIST.ipynb  # Full exercise
 └── README.md
 ```
 
